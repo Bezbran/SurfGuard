@@ -1,5 +1,7 @@
 # SurfGuard
-An open source solution to supervise the web sites (or pages) one can aceess from home network
+An open source solution to supervise the web sites (or pages) one can aceess from home network,
+The basic principal is proxy server which filters the web responses according to their content.
+Each content will classified to group(s) and the network manager could deny access to some kind of contents as well as to allow access only to some kind of contents.
 
 ## Primary Components
 
